@@ -1,0 +1,7 @@
+C:\Users\rdev8\source\repos\CabineMusical\CabineMusical\obj\Test\net5.0-windows7.0\CabineMusical.csproj.AssemblyReference.cache
+C:\Users\rdev8\source\repos\CabineMusical\CabineMusical\obj\Test\net5.0-windows7.0\CabineMusical.Form1.resources
+C:\Users\rdev8\source\repos\CabineMusical\CabineMusical\obj\Test\net5.0-windows7.0\CabineMusical.csproj.GenerateResource.cache
+C:\Users\rdev8\source\repos\CabineMusical\CabineMusical\obj\Test\net5.0-windows7.0\CabineMusical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rdev8\source\repos\CabineMusical\CabineMusical\obj\Test\net5.0-windows7.0\CabineMusical.AssemblyInfoInputs.cache
+C:\Users\rdev8\source\repos\CabineMusical\CabineMusical\obj\Test\net5.0-windows7.0\CabineMusical.AssemblyInfo.cs
+C:\Users\rdev8\source\repos\CabineMusical\CabineMusical\obj\Test\net5.0-windows7.0\CabineMusical.csproj.CoreCompileInputs.cache
